@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/farhan-website/static/css/main.b100e6da.chunk.css",
+    "main.js": "/farhan-website/static/js/main.5108fa7a.chunk.js",
+    "main.js.map": "/farhan-website/static/js/main.5108fa7a.chunk.js.map",
+    "runtime-main.js": "/farhan-website/static/js/runtime-main.bf42d4be.js",
+    "runtime-main.js.map": "/farhan-website/static/js/runtime-main.bf42d4be.js.map",
+    "static/js/2.75ef436d.chunk.js": "/farhan-website/static/js/2.75ef436d.chunk.js",
+    "static/js/2.75ef436d.chunk.js.map": "/farhan-website/static/js/2.75ef436d.chunk.js.map",
+    "index.html": "/farhan-website/index.html",
+    "precache-manifest.031297e24f656050ed180da2e724f9df.js": "/farhan-website/precache-manifest.031297e24f656050ed180da2e724f9df.js",
+    "service-worker.js": "/farhan-website/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/farhan-website/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/farhan-website/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf42d4be.js",
+    "static/js/2.75ef436d.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.5108fa7a.chunk.js"
+  ]
+}
